@@ -1,7 +1,7 @@
 {
   "name": "snowflake-util",
   "version": "1.0.0",
-  "description": "Snowflake utility provider based on Discord.js SnowflakeUtil",
+  "description": "Snowflake utility provider based on Discord.js SnowflakeUtil.",
   "main": "index.js",
   "scripts": {
     "test": "cd test && node ."
