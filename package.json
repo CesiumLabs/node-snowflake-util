@@ -1,0 +1,28 @@
+{
+  "name": "snowflake-util",
+  "version": "1.0.0",
+  "description": "Snowflake utility provider based on Discord.js SnowflakeUtil",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snowflake107/node-snowflake-util.git"
+  },
+  "keywords": [
+    "discord",
+    "snowflake",
+    "twitter-snowflake",
+    "discord-snowflake",
+    "discord.js",
+    "eris",
+    "snowflake-util"
+  ],
+  "author": "Snowflake107",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Snowflake107/node-snowflake-util/issues"
+  },
+  "homepage": "https://github.com/Snowflake107/node-snowflake-util#readme"
+}
