@@ -46,7 +46,7 @@ class SnowflakeUtil {
          * Epoch timestamp
          * @type {number}
          */
-        this.EPOCH = epoch && (typeof epoch === "number" || epoch instanceof Date ? epoch.getTime() : epoch) || 1420070400000;
+        this.EPOCH = !epoch ? 1420070400000 : epoch instanceof Date ? epoch.getTime() : 1420070400000;
 
         /**
          * Increment
